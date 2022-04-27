@@ -1,0 +1,4 @@
+ERROR	2022/04/27 18:58:50 main.go:30: listen tcp :4000: bind: address already in use
+exit status 1
+signal: interrupt
+signal: interrupt
